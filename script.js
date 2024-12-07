@@ -1,7 +1,4 @@
-// 必要に応じてJavaScriptを追加可能
-// ここでは、ページの読み込み確認用の例を記載しています
-
+// ページ読み込み時のカスタムイベント
 document.addEventListener("DOMContentLoaded", () => {
-  console.log("Discord Server Homepage loaded successfully!");
+  console.log("Welcome to Our Discord Server Homepage!");
 });
-
